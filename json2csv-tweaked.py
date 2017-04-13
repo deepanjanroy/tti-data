@@ -19,7 +19,8 @@ metric_names = [
     'firstInteractive-EventListeners',
     'firstInteractive-FMP-Proportional-w15-3000-lonely-ws-250-padding-1000psb-5000',
     'firstInteractive-FCP-Proportional-w15-3000-lonely-ws-250-padding-1000psb-5000',
-    'firstInteractive-DCL-Proportional-w15-3000-lonely-ws-250-padding-1000psb-5000'
+    'firstInteractive-DCL-Proportional-w15-3000-lonely-ws-250-padding-1000psb-5000',
+    'firstInteractive-FMP-ForwardLonely'
 ]
 
 # metric_names += [
